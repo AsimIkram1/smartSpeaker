@@ -1,0 +1,8 @@
+bluetooth:
+# - "UE BOOM 2"
+# - "Jabra Elite 75t"
+# - "Haylou-T19"
+ips:
+- "POCO X3 NFC"
+# - 192.168.0.172
+host: "POCO X3 NFC"
